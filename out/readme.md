@@ -36,17 +36,21 @@
 
 ### Core projects
 
-- [autoresume_core](https://github.com/lyszt/autoresume_core): 
-
 - [capitalisme-automatique_core](https://github.com/lyszt/capitalisme-automatique_core): Sequel to a java society simulator made during a Java class, but in Python
 
 - [clairemont_core](https://github.com/lyszt/clairemont_core): 
 
 - [dannazione-di-provvidenza_core](https://github.com/lyszt/dannazione-di-provvidenza_core): Dannazione di Providenza is an AI-powered language learning assistant with OCR capabilities, translation services, and a Firefox browser extension.
 
+- [extremis_core](https://github.com/lyszt/extremis_core): RPG Adventure written in RISC-V Assembly
+
+- [fleur-de-lys_core](https://github.com/lyszt/fleur-de-lys_core): Linux distribution.
+
 - [french-ship-madame-de-pompadour_core](https://github.com/lyszt/french-ship-madame-de-pompadour_core): Social simulation and story generator that creates sci-fi narratives based on Star Trek. OOP Python/Flask with some data structures, Gemini API, React/Vite/Tailwind frontend.
 
-- [iris-client_core](https://github.com/lyszt/iris-client_core): Terminal User Interface made for the IRIS project manager project.
+- [hedysarum_core](https://github.com/lyszt/hedysarum_core): Package manager for Fleur de Lys. 
+
+- [iris-client_core](https://github.com/lyszt/iris-client_core): Iris is a systems-level utility built in C for project management. It abstracts shell and implements a macro execution engine.
 
 - [kyrie_core](https://github.com/lyszt/kyrie_core): 
 
@@ -102,7 +106,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge)
 ![TeX](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
